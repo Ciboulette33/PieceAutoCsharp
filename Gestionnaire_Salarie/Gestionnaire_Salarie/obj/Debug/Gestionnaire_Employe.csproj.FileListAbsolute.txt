@@ -1,0 +1,11 @@
+D:\antoi\Documents\Epsi\B2\Proj. Trans. Dév. Appli. Objet\Gestionnaire_Salarie\Gestionnaire_Salarie\obj\Debug\Gestionnaire_Employe.csprojResolveAssemblyReference.cache
+D:\antoi\Documents\Epsi\B2\Proj. Trans. Dév. Appli. Objet\Gestionnaire_Salarie\Gestionnaire_Salarie\obj\Debug\Gestionnaire_Employe.GestionEmploye.resources
+D:\antoi\Documents\Epsi\B2\Proj. Trans. Dév. Appli. Objet\Gestionnaire_Salarie\Gestionnaire_Salarie\obj\Debug\Gestionnaire_Salarie.Properties.Resources.resources
+D:\antoi\Documents\Epsi\B2\Proj. Trans. Dév. Appli. Objet\Gestionnaire_Salarie\Gestionnaire_Salarie\obj\Debug\Gestionnaire_Employe.csproj.GenerateResource.Cache
+D:\antoi\Documents\Epsi\B2\Proj. Trans. Dév. Appli. Objet\Gestionnaire_Salarie\Gestionnaire_Salarie\obj\Debug\Gestionnaire_Employe.csproj.CoreCompileInputs.cache
+D:\antoi\Documents\Epsi\B2\Proj. Trans. Dév. Appli. Objet\Gestionnaire_Salarie\Gestionnaire_Salarie\bin\Debug\Gestionnaire_Salarie.exe.config
+D:\antoi\Documents\Epsi\B2\Proj. Trans. Dév. Appli. Objet\Gestionnaire_Salarie\Gestionnaire_Salarie\bin\Debug\Gestionnaire_Salarie.exe
+D:\antoi\Documents\Epsi\B2\Proj. Trans. Dév. Appli. Objet\Gestionnaire_Salarie\Gestionnaire_Salarie\bin\Debug\Gestionnaire_Salarie.pdb
+D:\antoi\Documents\Epsi\B2\Proj. Trans. Dév. Appli. Objet\Gestionnaire_Salarie\Gestionnaire_Salarie\bin\Debug\MySql.Data.dll
+D:\antoi\Documents\Epsi\B2\Proj. Trans. Dév. Appli. Objet\Gestionnaire_Salarie\Gestionnaire_Salarie\obj\Debug\Gestionnaire_Salarie.exe
+D:\antoi\Documents\Epsi\B2\Proj. Trans. Dév. Appli. Objet\Gestionnaire_Salarie\Gestionnaire_Salarie\obj\Debug\Gestionnaire_Salarie.pdb
